@@ -1,4 +1,4 @@
-# Salarite Virtual HR Dashboard
+# Virtual HR Dashboard
 
 ## Overview
 This is a mini ATS system where:
